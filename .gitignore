@@ -1,0 +1,5 @@
+CCTV-Indoor-Person-Detection-4/
+data/
+runs/
+*.pt
+__pycache__/
